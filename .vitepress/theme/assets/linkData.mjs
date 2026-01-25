@@ -7,10 +7,10 @@ const linkData = [
     typeDesc: "自己的东西",
     typeList: [
       {
-        name: "MIFENG BLOG",
+        name: "1224HuangJin BLOG",
         avatar: "/images/logo/logo.svg",
-        desc: "路漫漫其修远兮，吾将上下而求索",
-        url: "https://blog.imbee.top",
+        desc: "因为热爱、所以探索",
+        url: "https://blog.1224hj.top",
       },
     ],
   },

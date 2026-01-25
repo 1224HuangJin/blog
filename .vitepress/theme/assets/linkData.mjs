@@ -17,7 +17,7 @@ const linkData = [
   // 小伙伴们
   {
     type: "friends",
-    typeName: "小伙伴们",
+    typeName: "小伙伴们(我没小伙伴 悲)",
     typeDesc: "我们在一起，共同进步",
     typeList: [
  //     {
@@ -67,21 +67,21 @@ const linkData = [
   //      avatar: "https://q2.qlogo.cn/headimg_dl?dst_uin=2810132369&spec=5",
   //      desc: "有钱终成眷属，没钱亲眼目睹",
   //      url: "https://blog.qiqinb.cn",
-      },
-      {
-        name: "自由の博客",
-        avatar: "https://img.fastmirror.net/s/2025/10/02/68de75caaf3fc.jpeg",
-        desc: "一名初中生的博客，\n热爱生活，热爱技术",
-        url: "https://blog.free2011.top",
-      },
-      {
-        name: "wyf9's Blog",
-        avatar: "https://t0.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=48&url=https://wyf9.top",
-        desc: "什么都有的个人blog？",
-        url: "https://wyf9.top",
-      }
-    ],
-  },
+   //   },
+   //   {
+   //     name: "自由の博客",
+   //     avatar: "https://img.fastmirror.net/s/2025/10/02/68de75caaf3fc.jpeg",
+   //     desc: "一名初中生的博客，\n热爱生活，热爱技术",
+   //     url: "https://blog.free2011.top",
+   //   },
+    //  {
+    //    name: "wyf9's Blog",
+    //    avatar: "https://t0.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=48&url=https://wyf9.top",
+    //    desc: "什么都有的个人blog？",
+   //     url: "https://wyf9.top",
+   //   }
+  //  ],
+ // },
     // 丢失
  // {
   //  type: "lost",
@@ -94,8 +94,8 @@ const linkData = [
    //     desc: "｜д•´)!!",
    //     url: "https://chiyu.it",
    //   },
- //   ],
- // },
+    ],
+  },
 ];
 
 export default linkData;

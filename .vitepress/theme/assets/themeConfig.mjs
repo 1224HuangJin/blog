@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "MIFENG BLOG",
+    title: "1224HuangJin BLOG",
     // 站点描述
     description: "路漫漫其修远兮，吾将上下而求索。",
     // 站点logo

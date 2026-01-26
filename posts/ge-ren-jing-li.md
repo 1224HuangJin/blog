@@ -79,6 +79,7 @@ references:
 在2025年、
 > - 我通过**成为DigitalPlat官方Discord的Helper**，认识到了**Kananosa**。实际上，**Kananosa**是非常**好的人**（**SiiWay**目前我**认识到的**人**都很好**）他其实**知道**我没**真正的个人域名**、原本**想要给我一个**过、可我没**同意**我也**不知道**为什么，也许是不想要让他**破费**？还是怎么样。
 > - 之后，又通过**Kananosa**认识到了**SiiWay**（其实我不是和**Kananosa**特特别熟拉，可我已将他/她当成了**我的朋友**之一）并且进入了它们的**官方Discord服务器**（**SiiWay**的）
+# 感謝KANANOSA修復了這個BLOG原本有的問題！！！非常感謝！！如果不是偉大的KANANOSA你們和我都看不到這個文章的！！謝謝！！
 <LinkCard url="https://github.com/Kananosa" title="Kananosa的Github" desc="我还是只给个GitHub账号吧、虽然我有他/她的一个介绍自己的网站" icon="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
 :::
 ::: timeline 2026年（初三-初四）

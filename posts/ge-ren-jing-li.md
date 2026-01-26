@@ -71,9 +71,9 @@ references:
 > 我**关注了**一个叫"**零度解说**"的人，他视频**很多干货**、虽然以下也**有东西****不是**在他**视频学到的**、但是我**大概学到**了：
 >
 > - 如何制作恢复镜像（我有制作过一个FydeOS的，用Linux的 `dd`指令，可我没试过恢复什么电脑）
-> - 某些源代码项目（特别是一个部署过的一个可以免费看影视的项目，就是LibreTV、MoonTV、和KatelyaTV）
+> - 某些源代码项（特别是一个部署过的一个可以免费看影视的项目，就是LibreTV、MoonTV、和KatelyaTV）
 > - 使用了ChatGPT和DeepSeek成功制作了一个**链接缩短器**，虽然很久没维护了（用的是InfinityFree托管的PHP代码）
-<LinkCard url="https://rdr.rf.gd" title="链接缩短器 - 1224HuangJin" desc="我今天2026年1月25日，将背景图片改为了"小源151"的图片" icon="https://raw.githubusercontent.com/1224-HuangJin/files/refs/heads/main/media/image/1224HuangJin-LinkShorter.png" />
+<LinkCard url="https://rdr.rf.gd" title="链接缩短器 - 1224HuangJin" desc="我今天2026年1月25日，将背景图片改为了小源151的图片" icon="https://raw.githubusercontent.com/1224-HuangJin/files/refs/heads/main/media/image/1224HuangJin-LinkShorter.png" />
 
 > ## SiiWay
 在2025年、

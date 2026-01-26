@@ -5,7 +5,7 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 蜜蜂QWQ</span>
+        <span class="text2 title2">我是 夜影、NightShadow</span>
         <span class="text3">是一名 正在上学的学生</span>
       </div>
       <!-- 追求 -->
@@ -295,8 +295,8 @@
         <h3>滥用与版权举报</h3>
         <p>如果您发现网站内容存在滥用、侵权或其他违法违规行为，请通过以下方式联系我们：</p>
         <ul>
-          <li><strong>邮箱</strong>：wdsjwyf@gmail.com</li>
-          <li><strong>QQ</strong>：3979158171</li>
+          <li><strong>邮箱</strong>1224huangjin@gmail.com</li>
+         <li><strong>QQ</strong>：3979158171</li>
         </ul>
         <p>我们将认真对待每一个举报，并在收到举报后及时处理相关问题。</p>
         

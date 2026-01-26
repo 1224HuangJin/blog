@@ -1,5 +1,5 @@
 {
-  "name": "mifeng-blog",
+  "name": "1224huangjin-blog",
   "installCommand": "pnpm install",
   "buildCommand": "pnpm run build",
   "assets": {

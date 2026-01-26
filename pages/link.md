@@ -21,7 +21,7 @@ import Link from "@/views/Link.vue";
 
 ### 我的友链信息
 
-- 名称：`MIFENG BLOG`
+- 名称：`1224HuangJin BLOG`
 - 描述：`一个菜鸟的博客`
 - 地址：`https://blog.imbee.top/`
 - 头像：`https://blog.imbee.top/images/logo/logo.webp`

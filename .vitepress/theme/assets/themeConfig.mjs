@@ -14,10 +14,10 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "蜜蜂QWQ",
+      name: "夜影、NightShadow",
       cover: "/images/logo/logo.svg",
-      email: "wdsjwyf@gmail.com",
-      link: "https://imbee.top",
+      email: "1224huangjin@gmail.com",
+      link: "https://blog.1224hj.top",
     },
   },
   // 备案信息
@@ -155,12 +155,12 @@ export const themeConfig = {
   // 导航栏菜单 - 左侧
   navMore: [
     {
-      name: "项目",
+      name: "项目(基本都不是我的)",
       list: [
         {
           icon: "/images/logo/logo.svg",
           name: "主页",
-          url: "https://imbee.top",
+          url: "https://1224hj.top",
         },
         {
           icon: "/images/logo/other/nb-byoip.ico",

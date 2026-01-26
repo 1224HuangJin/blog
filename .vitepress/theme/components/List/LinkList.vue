@@ -42,7 +42,7 @@
         </div>
       </div>
     </div>
-    <div v-else class="no-data">暂无友链数据</div>
+    <div v-else class="no-data">暂无友链数据(呜呜呜、我没朋友)</div>
   </Transition>
 </template>
 

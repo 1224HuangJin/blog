@@ -23,21 +23,21 @@ import Link from "@/views/Link.vue";
 
 - 名称：`1224HuangJin BLOG`
 - 描述：`一个菜鸟的博客`
-- 地址：`https://blog.imbee.top/`
-- 头像：`https://blog.imbee.top/images/logo/logo.webp`
+- 地址：`https://blog.1224hj.top/`
+- 头像：`https://blog.1224hj.top/images/logo/logo.webp`
 - 站点图片：`麻烦自行拍摄（不加也行）`
 
 ```yml
 name: MIFENG BLOG
 desc: 一个菜鸟的博客
-url: https://blog.imbee.top/
+url: https://blog.1224hj.top/
 avatar: https://cdn.mfawa.top/image/logo.svg
 screenshot: 麻烦自行拍摄（不加也行）
 ```
 
 ### 申请友链
 
-- 我已添加 [mifeng's blog](https://blog.imbee.top/) 的友情链接。
+- 我已添加 [夜影、NightShadow 的blog](https://blog.1224hj.top/) 的友情链接。
 - **请多多进行互动后再来进行友链添加**，若为首次评论直接申请友链，将不会通过。
 - 本站不添加 **采集站**、**纯搬运站点**、**论坛类站点** 等非 **个人博客** 类型的站点。
 - 站点目前可以在 **中国大陆区域** 正常访问。

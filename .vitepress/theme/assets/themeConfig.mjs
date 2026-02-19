@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.svg",
     // 站点地址
-    site: "https://blog.imbee.top",
+    site: "https://blog.1224hj.top/",
     // 语言
     lang: "zh-CN",
     // 作者

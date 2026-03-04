@@ -121,6 +121,7 @@ export default withPwa(
     },
     // PWA
     pwa: {
+      outDir: ".vitepress/dist", // <--- 必须添加这一行，强制指向构建目录
       registerType: "autoUpdate",
       selfDestroying: true,
       workbox: {

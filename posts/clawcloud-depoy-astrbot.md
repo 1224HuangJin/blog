@@ -14,6 +14,7 @@ references:
 ::: tip 什么是ClawCloud?
 
 ClawCloud Run 是一款创新的云计算解决方案，凭借其独特的架构和功能设计，为企业和开发者提供高效便捷的云使用体验。从搭建开发环境到管理数据存储，从快速创建应用程序到在线部署，它全面助力企业优化和创新数字化业务流程。
+
 来自: [https://docs.run.claw.cloud/clawcloud-run/getting-started](https://docs.run.claw.cloud/clawcloud-run/getting-started)
 :::
 
@@ -32,6 +33,7 @@ ClawCloud Run 是一款创新的云计算解决方案，凭借其独特的架构
 
 ::: tip 什么是AstrBot?
 AstrBot 是一个跨平台 AI 助手，让 AI 直接工作在你的聊天软件中，实现自动化任务与智能协作，同时提供灵活的 Agent 编排能力。
+
 来自： [https://astrbot.app/](https://astrbot.app/)
 :::
 
@@ -93,9 +95,13 @@ TZ => Asia/Shanghai (或者其他你要的时区)
 
 ::: danger AstrBot 注意事项
 如果你安装过多插件，您将进入不了链接、所以并不建议您添加过多插件
+
 （就像我，只安装了2个插件[分别是: "传话筒·立绘对话框"和"群分析总结插件"] 我就需要进入无痕模式并等待大量时间才能进入网站）
 
-然后其实你也可以删文件的，在Pod List中：你可以在"OPERATION"找到一个类似文件夹的小图标，点进去 然后会找到"plugins"什么的文件夹、然后在里面删（但在其他文件夹也许还会有缓存什么的）
+
+然后其实你也可以删文件的，在Pod List中：你可以在"OPERATION"找到一个类似文件夹的小图标，
+
+点进去 然后会找到"plugins"什么的文件夹、然后在里面删（但在其他文件夹也许还会有缓存什么的）
 :::
 
 ::: tip AstrBot Links

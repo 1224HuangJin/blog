@@ -59,5 +59,9 @@
     "vue": "^3.5.17",
     "vue-instantsearch": "^4.21.1",
     "vue-slider-component": "4.1.0-beta.7"
+
+
+    
+    "packageManager": "pnpm@9.15.4",
   }
 }

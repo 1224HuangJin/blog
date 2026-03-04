@@ -3,4 +3,4 @@ Allow: /
 Allow: /pages/
 Allow: /posts/
 
-Sitemap: https://blog.imbee.top/sitemap.xml
+Sitemap: https://blog.1224hj.top/sitemap.xml

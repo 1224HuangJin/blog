@@ -8,7 +8,7 @@ description: 我的个人经历，主要关于编程？
 articleGPT: 夜影、NightShadow的"技术经历"。
 references:
   - title: 我的个人经历
-    url: https://blog.1224hj.top/personal-experience-个人经历
+    url: https://blog.1224hj.top/ge-ren-jing-li
 ---
 
 # 欢迎来到无人在意的博客和文章！

@@ -1,4 +1,4 @@
-name: Deploy VitePress to Pages
+name: Deploy Blog to Subfolder
 
 on:
   push:
@@ -6,19 +6,10 @@ on:
       - main
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  contents: write  # 必须有写入权限，因为它要往 gh-pages 分支塞东西
 
 jobs:
   build-and-deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -35,25 +26,18 @@ jobs:
           node-version: 18
           cache: 'pnpm'
 
-      - name: Install Dependencies
-        run: pnpm install
-
-      - name: Build VitePress
-        run: pnpm run build
+      - name: Install & Build
+        run: |
+          pnpm install
+          pnpm run build
         env:
-          # 既然你用二级域名访问，BASE 必须是根路径 /
-          BASE_PATH: /
-
-      - name: Fix Custom Domain
-        # 这行非常关键！它确保每次部署都会告诉 GitHub 你的域名是什么
-        # 否则 Actions 部署可能会冲掉仓库设置里的域名
-        run: echo "blog.1224hj.top" > .vitepress/dist/CNAME
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.vitepress/dist'
+          # 强制告诉构建工具，资源的路径前缀是 /blog/
+          BASE_PATH: /blog/
 
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: .vitepress/dist      # 博客编译出来的文件夹
+          target-folder: blog          # 重点：把内容放在主站的 blog 文件夹下
+          branch: gh-pages             # 部署到这个分支
+          clean: true                  # 只清理 blog 文件夹内部，不影响根目录

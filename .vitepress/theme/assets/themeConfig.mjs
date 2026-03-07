@@ -5,7 +5,7 @@ export const themeConfig = {
     // 站点标题
     title: "1224HuangJin's BLOG",
     // 站点描述
-    description: "君子藏起于身，待时而动。",
+    description: "君子藏器于身，待时而动。",
     // 站点logo
     logo: "/images/logo/logo.svg",
     // 站点地址

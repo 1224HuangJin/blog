@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "1224HuangJin BLOG",
+    title: "1224HuangJin's BLOG",
     // 站点描述
-    description: "路漫漫其修远兮，吾将上下而求索。",
+    description: "君子藏起于身，待时而动。",
     // 站点logo
     logo: "/images/logo/logo.svg",
     // 站点地址
@@ -155,7 +155,7 @@ export const themeConfig = {
   // 导航栏菜单 - 左侧
   navMore: [
     {
-      name: "项目(基本都不是我的)",
+      name: "项目(基本都不是我1224HuangJin的)",
       list: [
         {
           icon: "/images/logo/logo.svg",
@@ -189,7 +189,7 @@ export const themeConfig = {
         },
         {
           icon: "/images/logo/other/Let-Me-Search-That-For-You.svg",
-          name: "让我为你搜索",
+          name: "让我为你搜索（我译至西语）",
           url: "https://mfawa.top/",
         }
       ],
@@ -254,19 +254,19 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:wdsjwyf@gmail.com",
+        link: "mailto:1224huangjin@gmail.com",
       },
       {
         icon: "github",
-        link: "https://github.com/FrecklyComb1728/",
+        link: "https://github.com/1224HuangJin/",
       },
       {
-        icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=3979158171",
+        icon: "discord",
+        link: "https://discord.com/users/1185318172941885564",
       },
       {
         icon: "twitter-x",
-        link: "https://twitter.com/cn_mifeng",
+        link: "https://x.com/1224HuangJin",
       },
     ],
     // sitemap
@@ -283,8 +283,8 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "本站源码", link: "https://github.com/FrecklyComb1728/blog", newTab: true },
-          { text: "个人主页", link: "https://imbee.top", newTab: true },
+          { text: "本站源码", link: "https://github.com/1224HuangJin/blog", newTab: true },
+          { text: "个人主页", link: "https://1224hj.top", newTab: true },
           { text: "NB优选", link: "https://www.byoip.top", newTab: true },
           { text: "工具箱", link: "https://tools.bee-zh.cn", newTab: true },
           { text: "My API", link: "https://api.mfawa.top", newTab: true },
@@ -350,7 +350,8 @@ export const themeConfig = {
     // 站点简介
     hello: {
       enable: true,
-      text: "这里有关于<strong>开发</strong>相关的问题和看法，也会有一些<strong>奇技淫巧</strong>的分享，其中大部分内容会侧重于<strong>前端开发</strong>。希望你可以在这里找到对你有用的知识和教程。",
+      text: "这里会有关于<strong>技术开发</strong>的一些问题和看法，也会有一些<strong>奇技淫巧</strong>的分享，其中大部分内容会侧重于<strong>网页</strong>的什么东西（可以直接简单部署，和可直接网页访问的东西）。希望你可以在这里找到对你有用的知识和教程（或能让你开心、也足够了）。",
+    //  text: "这里有关于<strong>开发</strong>相关的问题和看法，也会有一些<strong>奇技淫巧</strong>的分享，其中大部分内容会侧重于<strong>前端开发</strong>。希望你可以在这里找到对你有用的知识和教程。",
     },
     // 目录
     toc: {
@@ -366,14 +367,14 @@ export const themeConfig = {
       // 倒计时日期
       data: {
         name: "成年",
-        date: "2029-08-05",
+        date: "2027-12-24",
       },
     },
     timing: {
       enable: true,
-      name: "小蜜蜂", //要显示的名字
+      name: "夜影子", //要显示的名字
       event: "活着", //事件名称
-      date: "2011-08-05", //出生日期
+      date: "2011-12-24", //出生日期
     },
     // 站点数据
     siteData: {

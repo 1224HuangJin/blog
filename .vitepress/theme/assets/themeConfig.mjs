@@ -261,7 +261,7 @@ export const themeConfig = {
         link: "https://github.com/1224HuangJin/",
       },
       {
-        icon: "discord",
+        icon: "qq",
         link: "https://discord.com/users/1185318172941885564",
       },
       {

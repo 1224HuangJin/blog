@@ -39,15 +39,19 @@ jobs:
         run: pnpm install
 
       - name: Build VitePress
-        # 这里是关键：注入 BASE_PATH 变量给 GitHub Pages 使用
         run: pnpm run build
         env:
-          BASE_PATH: /blog/
+          # 既然你用二级域名访问，BASE 必须是根路径 /
+          BASE_PATH: /
+
+      - name: Fix Custom Domain
+        # 这行非常关键！它确保每次部署都会告诉 GitHub 你的域名是什么
+        # 否则 Actions 部署可能会冲掉仓库设置里的域名
+        run: echo "blog.1224hj.top" > .vitepress/dist/CNAME
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # VitePress 默认产物路径
           path: '.vitepress/dist'
 
       - name: Deploy to GitHub Pages

@@ -19,6 +19,7 @@ const postData = await getAllPosts();
 
 // 获取主题配置
 const themeConfig = await getThemeConfig();
+const base = process.env.BASE_PATH || '/';
 // https://vitepress.dev/reference/site-config
 export default withPwa(
   defineConfig({
@@ -27,7 +28,7 @@ export default withPwa(
     lang: themeConfig.siteMeta.lang,
     // 简洁的 URL
     cleanUrls: true,
-    base: '/',
+    base: 'base',
     // 最后更新时间戳
     lastUpdated: true,
     // 主题

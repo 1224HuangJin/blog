@@ -1,4 +1,4 @@
-name: Deploy Blog to Subfolder
+name: Deploy Blog to GitHub Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-  contents: write  # 必须有写入权限，因为它要往 gh-pages 分支塞东西
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -26,18 +26,20 @@ jobs:
           node-version: 18
           cache: 'pnpm'
 
-      - name: Install & Build
+      - name: Build
         run: |
           pnpm install
-          pnpm run build
-        env:
-          # 强制告诉构建工具，资源的路径前缀是 /blog/
-          BASE_PATH: /blog/
+          # 依然注入 /blog/ 变量，确保子路径可用
+          BASE_PATH=/blog/ pnpm run build
 
-      - name: Deploy to GitHub Pages
+      - name: Add CNAME
+        # 这一步是把你的域名写进打包后的文件夹，防止每次部署后域名失效
+        run: echo "blog.1224hj.top" > .vitepress/dist/CNAME
+
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: .vitepress/dist      # 博客编译出来的文件夹
-          target-folder: blog          # 重点：把内容放在主站的 blog 文件夹下
-          branch: gh-pages             # 部署到这个分支
-          clean: true                  # 只清理 blog 文件夹内部，不影响根目录
+          folder: .vitepress/dist
+          target-folder: blog  # 将博客放在主站的 /blog 目录下
+          branch: gh-pages
+          clean: true

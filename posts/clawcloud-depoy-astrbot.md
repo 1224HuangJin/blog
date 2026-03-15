@@ -107,7 +107,7 @@ TZ => Asia/Shanghai (或者其他你要的时区)
 若您在无痕模式等待的时间实在是太久了，你可以：
 >
 前往ClawCloud Dash:
-![ClawCloud App Dash](/images/posts/ClawCloud/ClawCloudAppDash.png)
+![ClawCloud App Dash](/images/post/ClawCloud/ClawCloudAppDash.png)
 >
 然后，点击"Restart"然后等待就好
 

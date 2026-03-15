@@ -89,7 +89,7 @@ TZ => Asia/Shanghai (或者其他你要的时区)
 ### Local Storage:
 /AstrBot/data => 1Gi
 
-## 最后点击 "Depoy Aplication" 就可以成功部署了
+## 最后点击 "Depoy Aplication" 就可以成功部署了！
 
 # 部署后，你可以等到在"Network"中的"Public Address"的链接显示"Aviailable"后，点击它给的免费域名就可以进入AstrBot的仪表盘了
 
@@ -103,6 +103,15 @@ TZ => Asia/Shanghai (或者其他你要的时区)
 
 点进去 然后会找到"plugins"什么的文件夹、然后在里面删（但在其他文件夹也许还会有缓存什么的）
 :::
+## 等太久了，累死我了！
+若您在无痕模式等待的时间实在是太久了，你可以：
+>
+前往ClawCloud Dash:
+![ClawCloud App Dash](/images/posts/ClawCloud/ClawCloudAppDash.png)
+>
+然后，点击"Restart"然后等待就好
+
+若您依旧重新再在无痕模式打开了网站还是很慢，你可以先点击"Pause"(注意，您的Bot也将无法使用) 并且等一会，然后再点击 "Continue" 然后应该就不会进不去了（但还要继续等会哦）
 
 ::: tip AstrBot Links
 接入消息平台教程： [https://docs.astrbot.app/platform/start.html](https://docs.astrbot.app/platform/start.html)

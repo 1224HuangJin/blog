@@ -45,18 +45,18 @@ references:
 然后这边你只要点击"Sign in with GitHub"并连接就可以了
 
 ## 开始注册域名
-![https://dash.domain.digitalplat.org/dashboard](images/post/DigitalPlat/dashboard.png)
+![https://dash.domain.digitalplat.org/dashboard](/images/post/DigitalPlat/dashboard.png)
 
 为了注册免费域名你需要在Dashboard中，点击左边的"注册"
-![https://dash.domain.digitalplat.org/registration](images/post/DigitalPlat/registration.png)
+![https://dash.domain.digitalplat.org/registration](/images/post/DigitalPlat/registration.png)
 
 （2026/03/30）目前免费的域名有：.dpdns.org, .qzz.io 和 qd.je（qd.je在不久之后将变为付费）
 
-![https://dash.domain.digitalplat.org/registration](images/post/DigitalPlat/registration-enter.png)
+![https://dash.domain.digitalplat.org/registration](/images/post/DigitalPlat/registration-enter.png)
 
 选择可用的域名前缀并点击"检查可用性"
 
-![https://dash.domain.digitalplat.org/registration](images/post/DigitalPlat/register-domain.png)
+![https://dash.domain.digitalplat.org/registration](/images/post/DigitalPlat/register-domain.png)
 
 现在，你可以使用CloudFlare这个网络活佛来托管这个域名，具体如何使用CloudFlare来接入这个域名你可以查看该官方教程：
 https://developers.cloudflare.com/fundamentals/manage-domains/add-site/ 

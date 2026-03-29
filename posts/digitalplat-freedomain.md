@@ -16,7 +16,7 @@ references:
 >
 > 该项目使用 DigitalPlat FreeDomain，这是一套由 Edward Hsing 维护的开放域名基础设施。
 >
->（其实目前在2026/03/29的时候，还有一个免费的）
+>（其实目前在2026/03/29的时候，还有一个免费的玉米后缀：.qd.je）
 >
 >介绍来自： https://domain.digitalplat.org/*
 :::
@@ -29,36 +29,36 @@ references:
 :::
 # 开始
 # 开始注册账号
-- 1. 前往网站：
+1. 前往网站：
 <LinkCard url="https://dash.domain.digitalplat.org/signup?ref=6sHbUjZuYj" title="DigitalPlat FreeDomain" desc="链接：https://dash.domain.digitalplat.org/signup?ref=6sHbUjZuYj，加上'ref=***' 是为了让你我都额外获得一个域名名额" icon="https://domain.digitalplat.org/favicon.ico" />
 
-- 2. 并且输入类似：
+2. 并且输入类似：
 ![https://dash.domain.digitalplat.org/signup?ref=6sHbUjZuYj](/images/post/DigitalPlat/register.png)
-关于上面那段部分，你可以乱写电话号码和地址、但不要乱写邮箱，你会需要用于注册。
+关于上面那段部分，你**可以**乱写**电话号码**和**地址**、但**不要**乱写**邮箱**，它会用于注册。
 
-之后，它会自动跳转到 登录界面 你只要以你刚刚输入的邮箱和密码登录就可以了
+之后，它会自动跳转到 **登录界面** 你只要以你刚刚输入的**邮箱**和**密码登录**就可以了
 
 登录后，你会再自动跳转到：
 
 ![https://dash.domain.digitalplat.org/user/kyc](/images/post/DigitalPlat/KYC.png)
 
-然后这边你只要点击"Sign in with GitHub"并连接就可以了
+然后这边你只要点击"**Sign in with GitHub**"并连接就可以了
 
 ## 开始注册域名
 ![https://dash.domain.digitalplat.org/dashboard](/images/post/DigitalPlat/dashboard.png)
 
-为了注册免费域名你需要在Dashboard中，点击左边的"注册"
+为了注册免费域名你需要在Dashboard中，点击左边的"**注册**"
 ![https://dash.domain.digitalplat.org/registration](/images/post/DigitalPlat/registration.png)
 
-（2026/03/30）目前免费的域名有：.dpdns.org, .qzz.io 和 qd.je（qd.je在不久之后将变为付费）
+（**2026/03/30**）**目前**免费的域名有：.dpdns.org, .qzz.io 和 qd.je（qd.je在不久之后会**变为付费**）
 
 ![https://dash.domain.digitalplat.org/registration](/images/post/DigitalPlat/registration-enter.png)
 
-选择可用的域名前缀并点击"检查可用性"
+选择可用的域名前缀并点击"**检查可用性**"
 
 ![https://dash.domain.digitalplat.org/registration](/images/post/DigitalPlat/register-domain.png)
 
-现在，你可以使用CloudFlare这个网络活佛来托管这个域名，具体如何使用CloudFlare来接入这个域名你可以查看该官方教程：
+现在，你可以使用**CloudFlare**这个网络活佛来**托管这个域名**，具体如何使用CloudFlare来接入这个域名你可以查看该**官方教程**：
 https://developers.cloudflare.com/fundamentals/manage-domains/add-site/ 
 
 <LinkCard url="https://developers.cloudflare.com/fundamentals/manage-domains/add-site/" title="CloudFlare Add Site 加入域" desc="官方的如何添加域名教程，推荐使用浏览器自带的翻译器翻译。" icon="https://dash.cloudflare.com/favicon.ico" />

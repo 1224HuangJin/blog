@@ -83,9 +83,10 @@ Public Accesss: Yes
 #### Environment Variables(具体是不是必要我其实不知道):
 ```
 ASTRBOT_PORT = 6185
-
-TZ = Asia/Shanghai (或者其他你要的时区)
+TZ = Asia/Shanghai 
 ```
+(或者其他你要的时区)
+
 ### Configmaps:
 （留空）
 ### Local Storage:
@@ -114,6 +115,8 @@ TZ = Asia/Shanghai (或者其他你要的时区)
 然后，点击"Restart"然后等待就好
 
 若您依旧重新再在无痕模式打开了网站还是很慢，你可以先点击"Pause"(注意，您的Bot也将无法使用) 并且等一会，然后再点击 "Continue" 然后应该就不会进不去了（但还要继续等会哦）
+
+或若您已连接某个聊天平台，你可以在您已连接的使用该指令： `/dashboard_update `
 
 ::: tip AstrBot Links
 接入消息平台教程： [https://docs.astrbot.app/platform/start.html](https://docs.astrbot.app/platform/start.html)

@@ -81,9 +81,11 @@ Public Accesss: Yes
 ### Command
 (留空)
 #### Environment Variables(具体是不是必要我其实不知道):
-ASTRBOT_PORT => 6185
+```
+ASTRBOT_PORT = 6185
 
-TZ => Asia/Shanghai (或者其他你要的时区)
+TZ = Asia/Shanghai (或者其他你要的时区)
+```
 ### Configmaps:
 （留空）
 ### Local Storage:

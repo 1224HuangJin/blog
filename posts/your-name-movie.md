@@ -1,7 +1,7 @@
 ---
 title: 你的名字（电影）- 观后感
-cover: /YourName/haowallpaper.com-homeViewLook-15908471285599616.jpg
-tags: [电影, 动漫, 你的名字, 看后观感, 好动漫, 好电影, 日本电影, 日本动漫, Movie, Your Name, Anime, Good Movie, Your Name Movie]
+cover: /images/post/YourName/haowallpaper.com-homeViewLook-15908471285599616.jpg
+tags: [电影, 动漫, 你的名字, 日本电影, 日本动漫,Your Name, Anime]
 categories: [动漫]
 date: 2026-05-01
 description: 在看《你的名字》时的观后感。
@@ -27,11 +27,9 @@ references:
 
 :::details 图片
 
-<img src="https://bkimg.cdn.bcebos.com/pic/9c16fdfaaf51f3deb48fbb46d5b5e71f3a292df5d3c4?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20"/>
+![Image By 百度百科](/images/post/YourName/baidubaike-image-1.webp)
 
 --- 来源 => [百度百科](https://baike.baidu.com/pic/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82/19127928/5966335124/8435e5dde71190ef76c697fd8f408a16fdfaaf51cac4?fr=lemma&fromModule=lemma_content-image#aid=5966335124&pic=9c16fdfaaf51f3deb48fbb46d5b5e71f3a292df5d3c4)
-
-:::
 
 :::
 

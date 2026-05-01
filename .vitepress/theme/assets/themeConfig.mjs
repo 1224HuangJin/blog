@@ -339,7 +339,7 @@ export const themeConfig = {
     twikoo: {
       // 必填，若不想使用 CDN，可以使用 pnpm add twikoo 安装并引入
       js: "https://cdn.jsdmirror.cn/npm/twikoo@1.6.42/dist/twikoo.min.js",
-      envId: "https://twikoo.mfawa.top",
+      envId: "https://1224huangjin-twikoo-blog.vercel.app/",
       // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
       region: "",
       lang: "zh-CN",

@@ -18,7 +18,7 @@ references:
 >
 首先，欢迎你来到这篇博客，我是个在2011年12月24日出生的一位男生、然后热爱技术。
 >
-到目前为止（2026/05/18），我只会了**一点点**HTML和CSS，并准备学习Python
+到目前为止（2026/05/18），我只会了**一点点** HTML和CSS，并准备学习Python
 >
 另外，我也是一个Discord重度用户。
 :::
@@ -33,7 +33,7 @@ references:
 
 ::: timeline 2023年（初一-初二）
 ## 2023年
-> 在**2023年**、我**拥有了**我人生中**第一台设备/笔记本型电脑**（直到现在也是我**唯一的电子设备**），它是**Chromebook Spin 511**（还是一台**学习机**）。
+> 在 **2023年** 、我 **拥有了** 我人生中 **第一台设备/笔记本型电脑** （直到现在也是我**唯一的电子设备** ），它是 **Chromebook Spin 511**（还是一台**学习机**）。
 > 可它真的很好吗？
 > 
 > 实际上，他 **32gb存储空间+4gb内存** 。
@@ -102,14 +102,21 @@ Ta 可以算是我接触到更高层"编程代码"类内容的重要人物，如
 ## 2026年（今年）
 今年虽然才过25天（今天是2026年1月25日）、可我认为我做的事情还挺多捏
 # 获取了第一个顶级个人域名
-> - 首先就是，**2026年01月24日**、我获取了**第一个顶级个人域名**（不是**Kananosa**给的，是**"Mifeng"**给我的、域名为：https://1224hj.top ），我**问过**她、为什么她**人那么好**？
+> - 首先就是，**2026年01月24日**、我获取了 **第一个顶级个人域名**（不是 **Kananosa** 给的，是 **"Mifeng"** 给我的、域名为：https://1224hj.top ），我**问过**她、为什么她**人那么好**？
 >
-> 然后她说**《因为我不想和别人遭遇和我一样的事》**
+> 然后她说 《**因为我不想和别人遭遇和我一样的事**》
 > 在此处向她致敬
 >
-> 她也算是我生命中特殊的一人..（其实不妨还有更多，比如来说MinecraftXFJ, Lyang, wyf9 等等SiiWay团队内的人.. 在此也感谢SiiWay）
+> 她也算是我生命中特殊的一人..（其实不妨还有更多，比如来说**MinecraftXFJ**, **Lyang**, **wyf9**, **advan10** 等等SiiWay团队内的人.. 在此也感谢SiiWay 使我认识那么多人/朋友）
 
-<LinkCard url="https://imbee.top/" title="MiFeng的主页" desc="若想要看他的Blog可以直接访问 https://blog.imbee.top" icon="https://imbee.top/home-image/icon/logo.png" />
+<LinkCard url="https://siiway.org/" title="SiiWay的官方网站" desc="思维组织的官方网站" icon="https://siiway.org/favicon.svg" />
+
+<LinkCard url="https://imbee.top/" title="MiFeng的主页" desc="路漫漫其修远兮 吾将上下而求索" icon="https://imbee.top/home-image/icon/logo.png" />
+
+<LinkCard url="https://wyf9.top/" title="WYF9的Blog" desc="什么都有的个人 blog?" icon="https://wyf9.top/favicon.png" />
+
+<LinkCard url="https://minecraftxfj.top/" title="MinecraftXFJ的主页" desc="旧枝繁现新芽 新叶遮护老花 复始来去 同入泥沙" icon="https://cdn.jsdelivr.net/gh/XFJ-YYQF/Picture@main/img/home192.webp" />
+
 
 # 我Blog和主页
 在昨天、**2026年01月24日**，我也**创建**了**自己的Blog和主页**、链接分别是：**主页** => https://1224hj.top/ **Blog** => https://blog.1224hj.top （本域名）
@@ -118,7 +125,7 @@ Ta 可以算是我接触到更高层"编程代码"类内容的重要人物，如
 > 至于**个性化**、目前我这**2个网站**都**还没个性化好**，所以**有很多Mifeng的内容**、我以后会**慢慢个性化**的。
 >
 > # 代码学习
-在今天，我重新**把Linux下载回来**了、并**下载了VSCode**，然后现在我会**慢慢学HTML,JavaScript,CSS**、之后也许**如果上高中**了我**会学Python**?
+在今天，我重新 **把Linux下载回来** 了、并 **下载了VSCode** ，然后现在我会 **慢慢学HTML,JavaScript,CSS** 、之后也许**如果上高中** 了我**会学Python**?
 
 目前，我学习了HTML与CSS
 并准备学习Python

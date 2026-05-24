@@ -11,6 +11,13 @@ references:
     url: https://blog.1224hj.top/posts/eaglercraft-1.8.8-web-game
 ---
 
+::: warning 注意
+
+本文特别长，推荐直接使用 `CTRL + F`并快速寻找。
+
+:::
+
+
 ::: info
 
 哈哈哈，说起来这个具体的最后更新是：
@@ -21,7 +28,7 @@ references:
 
 所以今天就搞到这里好了，哈哈哈
 
-::
+:::
 
 [TOC]
 

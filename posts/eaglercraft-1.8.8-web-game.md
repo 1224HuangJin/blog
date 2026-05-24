@@ -32,7 +32,7 @@ references:
 
 [[TOC]]
 
-# **Minecraft 1.8.8(\[Eaglercraft\]Web)指令(缩写\[如果你要完整的请到下面\])**
+**Minecraft 1.8.8(\[Eaglercraft\]Web)指令(缩写\[如果你要完整的请到下面\])**
 
 * **/achievement \<give|take\> \<状态名|\*\> \[玩家\]**  
   * 用途：给玩家或移除玩家的成就。  
@@ -168,11 +168,11 @@ references:
 
 游玩此游戏: [https://eaglercraft.com/mc/1.8.8/](https://eaglercraft.com/mc/1.8.8/)
 
+---
+
+# 详细版：
+
 # /archivement
-
-# 
-
-# ---
 
 # 在《Minecraft》中，`/achievement` 指令用于授予或移除玩家的成就。这个指令在旧版 Minecraft（Java 版 1.12.2 及之前）中有效，新版本（1.13 及以后）改用 `/advancement` 指令来处理成就与进度。
 

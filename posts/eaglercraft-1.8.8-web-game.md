@@ -174,7 +174,9 @@ references:
 
 # /archivement
 
-# 在《Minecraft》中，`/achievement` 指令用于授予或移除玩家的成就。这个指令在旧版 Minecraft（Java 版 1.12.2 及之前）中有效，新版本（1.13 及以后）改用 `/advancement` 指令来处理成就与进度。
+---
+
+在《Minecraft》中，`/achievement` 指令用于授予或移除玩家的成就。这个指令在旧版 Minecraft（Java 版 1.12.2 及之前）中有效，新版本（1.13 及以后）改用 `/advancement` 指令来处理成就与进度。
 
 ### **用法**
 

@@ -30,7 +30,7 @@ references:
 
 :::
 
-[TOC]
+[[TOC]]
 
 # **Minecraft 1.8.8(\[Eaglercraft\]Web)指令(缩写\[如果你要完整的请到下面\])**
 
